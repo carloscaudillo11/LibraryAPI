@@ -27,7 +27,6 @@ namespace Data.Operaciones
         }
 
 
-        //Método para insertar un nuevo alumno a la BD.
         public bool insertar(string Name)
         {
             try
